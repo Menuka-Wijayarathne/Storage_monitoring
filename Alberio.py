@@ -68,8 +68,8 @@ if __name__ == "__main__":
 
     # Define the remote server details
     remote_hostname = '10.108.129.40'  # Update with your server's IP address or hostname
-    remote_username = 'admin'         # Update with your SSH username
-    remote_password = 'Nexenta1!'       # Update with your SSH password
+    remote_username = 'aasn'         # Update with your SSH username
+    remote_password = 'Nxxxx!'       # Update with your SSH password
     
     # Command to execute on the remote server
     
